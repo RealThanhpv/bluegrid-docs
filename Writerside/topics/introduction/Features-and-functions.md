@@ -116,6 +116,7 @@
     <list type="decimal" start="1">
         <li><a href="Material.md" anchor="add-a-material-item"> Add new materials</a></li>
         <li><a href="Material.md" anchor="delete-material-items">Delete materials</a></li>
+        <li><a href="Material.md" anchor="apply-materials-to-shapes">Apply materials to shapes</a></li>
         <li><a href="Material.md" anchor="pull-materials-from-catalogs">Pull materials to page from project's catalogs</a></li>
         <li><a href="Material.md" anchor="import-materials-form-csv-files">Import materials from CSV files</a></li>
         <li><a href="Material.md" anchor="export-material-table-to-csv-files">Export material definition to CSV files</a></li>
