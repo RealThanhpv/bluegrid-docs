@@ -136,6 +136,28 @@ As material table can be exported to and imported from CSV files, users can edit
 
 </procedure>
 
+## Apply materials to shapes
+<procedure title="Apply material to shapes" id="apply-material-to-shapes">
+<step>
+Select <code>Material tab</code> of on the left of the <code>Draw view</code>
+</step>
+<step>
+Select the material item you want to apply to shapes
+</step>
+<step>
+Drag the material item to the shape you want to apply the material to and release the mouse button.
+</step>
+<note>
+<p>
+  By applying a material item to a shape, the shape’s metric property that corresponds to the material will be accounted for in that material’s quantity value.
+</p>
+</note>
+<note>
+You can select multiple shapes and apply the same material item to all selected shapes.
+</note>
+<img src="apply_materials.gif" alt="Apply material to shapes" width="1080"/>
+</procedure>
+
 ## Export material take-off table to Excel files
 <procedure>
 <step>
@@ -154,6 +176,9 @@ Select the <code>All items</code> menu item. or <code> Valued items</code> menu 
 Upon selecting the <code>Export to excel</code>, a save file <code>dialog window</code> will display. Navigate to the location you want to save the Excel file and click <code>Save</code> from the <code>dialog window</code>.
 </step>
 </procedure>
+
+
+
 
 
 
