@@ -4,11 +4,6 @@
 </tldr>
 <card-summary>Document folders</card-summary>
 
-## User interface layout
-The folders are displayed in the left panel of the <code>Document view</code>, in a <code>list view</code>. 
-<img src="folder_ui.png" alt="User interface of Folder Ui component"/>
-
-
 ## Add folders
 <procedure  >
 <p>

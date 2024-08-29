@@ -72,8 +72,8 @@
         <li>Block shapes
             <list type="decimal" start="1">
                 <li><a href="Symbol-tools.md" anchor="build-symbols-from-shapes" >Build counting symbols with shapes</a></li>
-                <li>Import countable symbols from Json files</li>
-                <li>Export countable symbols to Json files</li> 
+                <li>Import symbols from Json files</li>
+                <li>Export symbols to Json files</li> 
             </list>
         </li>
         <li>Transform shapes
