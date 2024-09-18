@@ -24,6 +24,7 @@
     <a href="Tree-Catalog.md">Catalogs</a>
     <a href="Material.md">Materials</a>
     <a href="Cloud.md">Cloud Flows and Sharing</a>
+    <a href="Demo.md">Demos</a>
 </secondary>
 <misc>
 <cards>
